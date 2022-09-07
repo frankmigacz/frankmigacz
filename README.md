@@ -1,4 +1,4 @@
-### Hei og velkommen!
+### Hej og velkommen!
 
 💼 I am an App Innovation Specialist at Microsoft - guiding customers into speeding up the deployment of features and the deployment frequency.
 
