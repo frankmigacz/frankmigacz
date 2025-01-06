@@ -1,5 +1,5 @@
-[![GitHub Administration certification logo](./media/GHAdmin.png)](https://www.credly.com/earner/earned/badge/5f03d1da-746c-433f-82dc-6c8bec4b404b)
-[![GitHub Advanced Security certification logo](./media/GHAS.png)](https://www.credly.com/earner/earned/badge/ab13b3bc-1380-4bff-bb00-a7dfc23f6802)
+[![GitHub Copilot certification logo](./media/GHCopilot.png)](https://www.credly.com/badges/633fba5f-90aa-420f-8ebe-3dd715e878e6)
+[![GitHub Advanced Security certification logo](./media/GHAS.png)](https://www.credly.com/badges/4bf397af-3e45-437e-a7ce-1ca7f5ab62f0)
 
 
 💼 I am an App Innovation Specialist at Microsoft - guiding customers into building new AI apps (or AI features in existing apps).
